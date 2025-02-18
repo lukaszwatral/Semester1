@@ -1,0 +1,3 @@
+﻿  zadanie10pliki.cpp
+C:\Users\Łukasz\source\repos\zadanie10pliki\zadanie10pliki\zadanie10pliki.cpp(51,78): warning C4305: "inicjowanie": obcięcie z "double" do "float"
+  zadanie10pliki.vcxproj -> C:\Users\Łukasz\source\repos\zadanie10pliki\x64\Debug\zadanie10pliki.exe
